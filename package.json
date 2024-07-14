@@ -2,7 +2,7 @@
     "name": "my-node-project",
     "version": "1.0.0",
     "scripts": {
-      "test": "jest"
+      "test": "TZ='Asia/Tokyo' jest"
     },
     "devDependencies": {
       "jest": "^27.0.0"
